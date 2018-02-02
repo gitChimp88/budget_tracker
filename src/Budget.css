@@ -1,0 +1,60 @@
+.budgetMain .header input {
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #FFF;
+  width: 165px;
+  border-radius: 10px;
+}
+
+.budgetMain .header button {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  margin-right: 0px;
+  background-color: #FF8F8F;
+  color: #FFF;
+  border-radius: 10px;
+  box-shadow: 1px 3px;
+  color: black;
+  padding: 20px;
+}
+
+.budgetMain .header button:hover {
+  position: relative;
+  left: 1px;
+  color:  #FFBABA;
+  cursor: pointer;
+}
+
+
+.budgetMain .list {
+  list-style: none;
+  padding-left: 0;
+  width: 250px;
+	margin: 0 auto;
+} 
+
+.budgetMain .list li {
+  
+  background-color: rgba(255,255,255,.5);
+  padding: 15px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  display: block;
+}
+
+.second {
+	display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red;
+}
+
